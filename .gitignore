@@ -38,3 +38,4 @@ out/
 
 ### mac ###
 **/.DS_Store
+!**/src/naverpi/
